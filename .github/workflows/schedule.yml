@@ -52,4 +52,4 @@ jobs:
           diffs=$(git diff README.md)
           [ "$diffs" != "null" -a -n "$diffs" ] && git add README.md
           [ "$diffs" != "null" -a -n "$diffs" ] && git commit -m "Build document" -m "`date`"
-          [ "$diffs" != "null" -a -n "$diffs" ] && git push -f origin main
+          [ "$diffs" != "null" -a -n "$diffs" ] && git push https://${{ secrets.OAUTH_TOKEN }}@github.com/ShapeLayer/ShapeLayer.git
