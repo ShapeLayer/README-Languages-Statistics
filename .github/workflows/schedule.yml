@@ -45,7 +45,7 @@ jobs:
           git clone https://github.com/ShapeLayer/ShapeLayer.git
       - name: Deploy to profile repository
         run: |
-          mv lang-stats-document/OUTPUT.md ShapeLayer/README.md
+          mv OUTPUT.md ShapeLayer/README.md
           cd ShapeLayer
           git config user.name github-actions
           git config user.email github-actions@github.com
