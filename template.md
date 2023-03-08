@@ -21,7 +21,6 @@ Serving in the military now.
 For more details, visit [my website.](https://jonghyeon.me)
 
 ### Contacts
- [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-박종현-FFCD00?logo=kakaotalk&logoColor=white)](https://namecard.kakao.com/cmd)
  [![Discord](https://img.shields.io/badge/Discord-박종현%238176-7289DA?logo=discord&logoColor=white)](#)
  [![Email](https://img.shields.io/badge/Email-jonghyeon@jnu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:214823@jnu.ac.kr)
  [![Instagram](https://img.shields.io/badge/Instagram-@__jong.hyeon__-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/__jong.hyeon__)
