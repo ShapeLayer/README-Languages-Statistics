@@ -85,12 +85,12 @@ def calc_percentage_lang_stats(lang_stats: dict):
     lang_percentage = sorted(lang_percentage.items(), key=lambda x:x[1], reverse=True)
     return lang_percentage
 
-def write_result_to_string(lang_stats_list_tupled: list):
+def write_result_to_string(lang_stats_list_tupled: list, lang_stats: dict):
     lang_name_len = max([len(tupled[0]) for tupled in lang_stats_list_tupled])
     string_left_width = lang_name_len + 5
     string_body = ''
     for lang in lang_stats_list_tupled:
-        string_body += lang[0].ljust(string_left_width, '.') + '{}%'.format(format(lang[1] * 100, f'.{PERCENTAGE_ROUND}f'))
+        string_body += lang[0].ljust(string_left_width, '.') + '{}% ({})'.format(format(lang[1] * 100, f'.{PERCENTAGE_ROUND}f'), lang_stats[lang])
         string_body += '\n'
     return string_body
 
@@ -109,5 +109,5 @@ if __name__ == '__main__':
     repo_lang_urls = load_repo_lang_urls()
     lang_stats = sum_repository_language_statistics(repo_lang_urls)
     lang_stats_filtered = calc_percentage_lang_stats(lang_stats)
-    string_result = write_result_to_string(lang_stats_filtered)
+    string_result = write_result_to_string(lang_stats_filtered, lang_stats)
     write_to_local_file(string_result)
