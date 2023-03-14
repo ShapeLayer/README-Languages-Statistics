@@ -90,7 +90,7 @@ def write_result_to_string(lang_stats_list_tupled: list, lang_stats: dict):
     string_left_width = lang_name_len + 5
     string_body = ''
     for lang in lang_stats_list_tupled:
-        string_body += lang[0].ljust(string_left_width, '.') + '{}% ({})'.format(format(lang[1] * 100, f'.{PERCENTAGE_ROUND}f'), lang_stats[lang])
+        string_body += lang[0].ljust(string_left_width, '.') + '{}% ({})'.format(format(lang[1] * 100, f'.{PERCENTAGE_ROUND}f'), lang_stats[lang[0]])
         string_body += '\n'
     return string_body
 
