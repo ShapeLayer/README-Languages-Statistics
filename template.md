@@ -4,10 +4,10 @@
         <img src="https://img.shields.io/badge/since-2015-black?logo=github&logoColor=white">
     </a>
     <a href="https://jonghyeon.me" aria-label="notion">
-        <img src="https://img.shields.io/badge/meet%20at%20notion!-white?logo=notion&logoColor=black">
+        <img src="https://img.shields.io/badge/meet%20at%20jonghyeon.me!-white">
     </a>
     <a href="https://blog.jonghyeon.me" aria-label="velog.io">
-        <img src="https://img.shields.io/badge/blog-blog.jonghyeon.me-20C997?logo=velog&logoColor=white">
+        <img src="https://img.shields.io/badge/blog-blog.jonghyeon.me-20C997">
     </a>
     <a href="https://www.credly.com/users/jonghyeon/" aria-label="credly">
         <img src="https://img.shields.io/badge/credly-jonghyeon-FF6B00?logo=credly&logoColor=white">
