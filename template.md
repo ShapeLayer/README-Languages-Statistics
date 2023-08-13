@@ -22,7 +22,7 @@ For more details, visit [my website.](https://jonghyeon.me)
 
 ### Contacts
  [![Discord](https://img.shields.io/badge/Discord-박종현%238176-7289DA?logo=discord&logoColor=white)](#)
- [![Email](https://img.shields.io/badge/Email-jonghyeon@jnu.ac.kr-EA4335?logo=gmail&logoColor=white)](mailto:214823@jnu.ac.kr)
+ [![Email](https://img.shields.io/badge/Email-me@jonghyeon.me-EA4335?logo=gmail&logoColor=white)](mailto:me@jonghyeon.me)
  [![Instagram](https://img.shields.io/badge/Instagram-@__jong.hyeon__-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/__jong.hyeon__)
 
 ## How to reach me?
