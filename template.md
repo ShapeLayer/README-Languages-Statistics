@@ -17,7 +17,6 @@
     </a>
 </p>
 
-Serving in the military now.  
 For more details, visit [my website.](https://jonghyeon.me)
 
 ### Contacts
@@ -27,7 +26,7 @@ For more details, visit [my website.](https://jonghyeon.me)
 
 ## How to reach me?
 Send an email to the account above.  
-A reply will be sent in a week normally.
+A reply will be sent in a few days normally.
 
 ## Language uses
 ```txt
