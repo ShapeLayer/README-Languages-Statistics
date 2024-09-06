@@ -24,6 +24,10 @@ For more details, visit [my website.](https://jonghyeon.me)
  [![Email](https://img.shields.io/badge/Email-me@jonghyeon.me-EA4335?logo=gmail&logoColor=white)](mailto:me@jonghyeon.me)
  [![Instagram](https://img.shields.io/badge/Instagram-@__jong.hyeon__-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/__jong.hyeon__)
 
+### Organization Contacts
+- ~~kpjhg0124@sdok.gen.go.kr~~
+- jonghyeon@jnu.ac.kr
+
 ## How to reach me?
 Send an email to the account above.  
 A reply will be sent in a few days normally.
